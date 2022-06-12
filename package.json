@@ -1,0 +1,9 @@
+{
+	"name": "tadah-thumbnail-archiver",
+	"main": "src/index.js",
+	"author": "I-Have-An-Issue",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.27.2"
+	}
+}
